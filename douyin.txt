@@ -1,0 +1,2 @@
+抖音分流
+^https?:\/\/(api.*\.amemv|aweme\.snssdk)\.com\/api\/ad\/,REJECT
